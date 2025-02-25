@@ -1,4 +1,4 @@
-# A CS student with no money 💸
+# **YABCS**💸 (Yet Another Broke CS Student)
 
 🎓 **Computer Engineering Student** at the University of Agder (UiA)  
 🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
