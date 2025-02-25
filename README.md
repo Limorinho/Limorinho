@@ -1,4 +1,4 @@
-# Hi, I'm Linor Ujkani
+# Just a CS student with no money 💸
 
 🎓 **Computer Engineering Student** at the University of Agder (UiA)  
 🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
