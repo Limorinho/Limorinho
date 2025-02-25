@@ -37,8 +37,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Limorinho&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
-## 📫 Contact Me  
+ 
 ## 📫 Contact Me  
 <p align="left">
   <a href="https://linkedin.com/in/Linor_ujkani">
