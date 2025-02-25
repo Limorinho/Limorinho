@@ -40,7 +40,7 @@
  
 ## 📫 Contact Me  
 <p align="left">
-  <a href="https://linkedin.com/in/Linor_ujkani">
+  <a href="https://linkedin.com/in/Linor_ujkani](https://www.linkedin.com/in/linor-ujkani-175653294/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:ujkanilinor@gmail.com">
