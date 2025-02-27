@@ -3,7 +3,6 @@
 🎓 **Computer Engineering Student** at the University of Agder (UiA)  
 🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
 🎮 **Game Development Enthusiast** currently working with Godot  
-🚀 Open to **learn**, **build**, and **solve problems**  
 
 ## 🔧 Technologies & Tools  
 <p align="left">
