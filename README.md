@@ -1,6 +1,6 @@
 # **YABD**💸 (Yet Another Broke Developer)
 
-🎓 **Computer Engineering Student** at the University of Agder (UiA)  
+🎓 **Artificial Intelligence Student** at the University of Agder (UiA)  
 🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
 🎮 **Game Development Enthusiast** currently working with Godot  
 
