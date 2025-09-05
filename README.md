@@ -3,6 +3,7 @@
 🎓 **Artificial Intelligence Student** at the University of Agder (UiA)  
 🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
 🎮 **Game Development Enthusiast** currently working with Godot  
+🌐 [**Portfolio**](https://limorinho.github.io/Portfolio/)
 
 ## 🔧 Technologies & Tools  
 <p align="left">
