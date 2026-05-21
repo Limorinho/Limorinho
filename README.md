@@ -1,8 +1,7 @@
 # **YABD**💸 (Yet Another Broke Developer)
 
-🎓 **Artificial Intelligence Student** at the University of Agder (UiA)  
-🖥️ **Software Developer** passionate about .NET, React, and Computer Vision  
-🎮 **Game Development Enthusiast** currently working with Godot  
+I’m an Artificial Intelligence student at the University of Agder (UiA) with a strong interest in software development, particularly using .NET and React, as well as computer vision. I’m also passionate about game development and am currently working on projects using the Godot engine.
+
 🌐 View my portfolio [**here**](https://limorinho.github.io/Portfolio/)
 
 ## 🔧 Technologies & Tools  
@@ -32,10 +31,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Limorinho&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Limorinho&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
  
 ## 📫 Contact Me  
